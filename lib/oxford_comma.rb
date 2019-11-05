@@ -7,6 +7,6 @@ end
 def oxford_comma(array)
    
  #binding.pry
- array.push(" and durian")
+ return array.push(" and durian")
  
 end
